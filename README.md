@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Intro to AI
+- 🌱 I’m currently learning how to use GitHub
+  
 <!--
 **dimazurok/dimazurok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
